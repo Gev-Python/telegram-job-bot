@@ -1,10 +1,13 @@
 # Telegram Job Bot 📋🤖
 
 ## 🚀 Project Overview
-
 This Telegram bot automates job updates, currency rates, and data delivery via Excel files.
 It is designed to save time and provide users with up-to-date information daily.
 
+## ✅ Results
+- Automated daily reports
+- Real-time job updates
+- Reduced manual work
 
 Бот для автоматической отправки Excel-файла с ноутбуками и свежими вакансиями с сайта [remoteok.com](https://remoteok.com), а также отображения новостей и курса USD к AMD.
 
